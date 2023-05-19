@@ -1,1 +1,3 @@
 # plate-detection
+
+License plate recognition is a system that detects and recognises licence plates in digital photos or video footage. Inception ResNetV2 and YOLOv5 models, which can precisely identify and recognise licence plates in real-time, are used in the proposed study for licence plate recognition. These efforts are crucial for improving the effectiveness and precision of licence plate recognition systems, which have numerous uses in traffic control, parking management, and law enforcement. The results obtained from the YOLOv5 model was better than the results produced by Inception ResNetV2. 
